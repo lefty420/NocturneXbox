@@ -51,6 +51,15 @@ Dead zone, turn speed, look speed and an invert-look option are set in the launc
 
 A new version installs over an old one and keeps your saves and settings.
 
+## Getting back to the launcher
+
+After the first time you press **Play**, the app starts straight into the game. To open the launcher again
+(for graphics, controls or game files), press and hold **View + Menu + left-stick click** at the same time
+while in the game. The app restarts and shows the launcher. Press **Play** to go back into the game, and
+the shortcut turns back on.
+
+The B button doesn't close the app. Use **Start** to back out of the game's menus.
+
 ## Credits
 
 NearlyTRex (NocturneDecomp), Special Elite (Apache 2.0), IM Fell (OFL), stb libraries (public domain).
