@@ -13,6 +13,11 @@ The code is in [lefty420/NocturneDecomp](https://github.com/lefty420/NocturneDec
 ![Graphics](images/launcher-graphics.png)
 ![Settings](images/launcher-settings.png)
 
+## In game
+
+![In-game screenshot 1](images/Screenshot_2026-10-26_14-12-35.png)
+![In-game screenshot 2](images/Screenshot_2026-10-26_14-14-54.png)
+
 ## Install
 
 1. Put the console in **Dev Mode** and open **Device Portal** (`https://<console-ip>:11443`).
