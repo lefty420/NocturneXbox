@@ -20,6 +20,8 @@ The code is in [lefty420/NocturneDecomp](https://github.com/lefty420/NocturneDec
 
 ## Features
 
+- **Performance:** Runs at a smooth 60fps.
+
 All of these are set in the launcher's **Graphics** tab before you press Play.
 
 ### Screen shape
